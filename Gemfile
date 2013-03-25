@@ -50,4 +50,11 @@ gem 'bootstrap-datepicker-rails'
 
 gem 'simple_form'
 
+# testing gems
+#gem 'shoulda'
+#gem 'shoulda-matchers'
+gem 'factory_girl_rails'
+#gem "mocha"
+gem 'simplecov'
+
 
